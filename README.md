@@ -28,4 +28,4 @@ The code generates CSV files in the `metric/` directory containing performance m
 
 If you use this code in your research, please cite the following paper:
 
-Lin, W.-H., & Chan, T.-C. (xxxx). xxx [Journal Name/Preprint Info].
+Lin, W.-H., & Chan, T.-C. (2026). Satellite-Grounded Fusion for Hourly Air Quality Prediction: Insights from GEMS-Based Modeling in Taiwan. Submitted to [Journal Name] (Under Review).
