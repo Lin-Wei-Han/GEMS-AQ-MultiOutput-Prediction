@@ -1,5 +1,7 @@
 # Satellite-Grounded Fusion for Hourly Air Quality Prediction
 
+[![DOI](https://zenodo.org/badge/1136920088.svg)](https://doi.org/10.5281/zenodo.18291546)
+
 The source code for the study "Satellite-Grounded Fusion for Hourly Air Quality Prediction: Insights from GEMS-Based Modeling in Taiwan." We use a multi-output CatBoost model in a rolling validation framework to predict hourly concentrations of six air pollutants: PM2.5, PM10, O3, NO2, CO, and SO2.
 
 ## Directory Structure
